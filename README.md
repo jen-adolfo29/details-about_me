@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jen</h1>
 <h3 align="center">Electronics Communication Engineering Technology at TUP-Manila</h3>
 
-- 🌱 I’m currently learning **Python Essentials at Cisco Skills for All**
-
 - 📫 How to reach me: **jenadolfo5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
